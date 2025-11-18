@@ -1,13 +1,6 @@
-## Olá! Eu sou o João Sanitá
+# Meu Portfólio no GitHub
+Bem-vindo ao meu perfil! 👋
+Este repositório reúne meus principais projetos, estudos e experimentos na área de programação e desenvolvimento de software.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joaosanita&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joaosanita&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=joaosanita&show_icons=true" />
-</picture>
+## 🚀 Sobre mim
+Apenas alguém querendo entrar no meio da programação, aprendendo um pouco a cada dia e construindo projetos para evoluir minhas habilidades.
